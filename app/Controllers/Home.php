@@ -18,6 +18,8 @@ class Home extends BaseController
        }*/
 
 
+echo "Merhaba Dünya";
+
 
         return redirect()->to(route_to('admin_login'));
 
